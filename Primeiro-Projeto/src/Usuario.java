@@ -14,7 +14,7 @@ public class Usuario {
         smartTv.volumeUp();
 
         smartTv.channelDown();
-        smartTv.selectChannel(7);
+        smartTv.selectChannel(9);
     
     }
 }
