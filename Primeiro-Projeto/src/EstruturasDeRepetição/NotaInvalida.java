@@ -1,3 +1,4 @@
+package EstruturasDeRepetição;
 import java.util.Scanner;
 
 public class NotaInvalida {

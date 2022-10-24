@@ -1,3 +1,4 @@
+package EstruturasDeRepetição;
 import java.util.Random;
 
 public class NumerosAleatorios {

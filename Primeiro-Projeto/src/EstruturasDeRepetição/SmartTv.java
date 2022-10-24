@@ -1,3 +1,4 @@
+package EstruturasDeRepetição;
 public class SmartTv {
     boolean on = false;
     int channel= 1;
